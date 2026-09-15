@@ -1,0 +1,3 @@
+>NC_012920.1:8527-9207 Homo sapiens mitochondrion, complete genome
+LOCUS       NC_012920                681 bp    DNA     linear   PRI 03-APR-2023
+>YP_003024031.1 ATP synthase F0 subunit 6 (mitochondrion) [Homo sapiens]
