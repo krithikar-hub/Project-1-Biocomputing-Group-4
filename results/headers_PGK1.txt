@@ -1,0 +1,2 @@
+PGK1_sequence.fasta:>NM_000291.4 Homo sapiens phosphoglycerate kinase 1 (PGK1), mRNA
+PGK1_DP_sequence.fasta:>NP_000282.1 phosphoglycerate kinase 1 [Homo sapiens]
