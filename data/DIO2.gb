@@ -1,0 +1,358 @@
+LOCUS       NM_000793               6374 bp    mRNA    linear   PRI 27-MAR-2025
+DEFINITION  Homo sapiens iodothyronine deiodinase 2 (DIO2), transcript variant
+            2, mRNA.
+ACCESSION   NM_000793
+VERSION     NM_000793.6
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 6374)
+  AUTHORS   Beltrao,D.C.A., Beltrao,F.E.L., Carvalhal,G., Beltrao,F.L.L.,
+            Brito,A.D.S., Silva,H.D.S., Teixeira,H.M.P., Rodrigues,J.L., de
+            Figueiredo,C.A.V., Costa,R.D.S., Pordeus,L.C.M., Vieira,G.C. and
+            Ramos,H.E.
+  TITLE     The Thr92Ala polymorphism in the type 2 deiodinase gene is linked
+            to depression in patients with COVID-19 after hospital discharge
+  JOURNAL   Front Endocrinol (Lausanne) 15, 1366500 (2024)
+   PUBMED   38911040
+  REMARK    GeneRIF: The Thr92Ala polymorphism in the type 2 deiodinase gene is
+            linked to depression in patients with COVID-19 after hospital
+            discharge.
+REFERENCE   2  (bases 1 to 6374)
+  AUTHORS   Ohba,K., Yoshioka,T. and Muraki,T.
+  TITLE     Identification of two novel splicing variants of human type II
+            iodothyronine deiodinase mRNA
+  JOURNAL   Mol Cell Endocrinol 172 (1-2), 169-175 (2001)
+   PUBMED   11165050
+REFERENCE   3  (bases 1 to 6374)
+  AUTHORS   Baqui,M.M., Gereben,B., Harney,J.W., Larsen,P.R. and Bianco,A.C.
+  TITLE     Distinct subcellular localization of transiently expressed types 1
+            and 2 iodothyronine deiodinases as determined by immunofluorescence
+            confocal microscopy
+  JOURNAL   Endocrinology 141 (11), 4309-4312 (2000)
+   PUBMED   11089566
+REFERENCE   4  (bases 1 to 6374)
+  AUTHORS   Bartha,T., Kim,S.W., Salvatore,D., Gereben,B., Tu,H.M.,
+            Harney,J.W., Rudas,P. and Larsen,P.R.
+  TITLE     Characterization of the 5'-flanking and 5'-untranslated regions of
+            the cyclic adenosine 3',5'-monophosphate-responsive human type 2
+            iodothyronine deiodinase gene
+  JOURNAL   Endocrinology 141 (1), 229-237 (2000)
+   PUBMED   10614643
+REFERENCE   5  (bases 1 to 6374)
+  AUTHORS   Salvatore,D., Harney,J.W. and Larsen,P.R.
+  TITLE     Mutation of the Secys residue 266 in human type 2 selenodeiodinase
+            alters 75Se incorporation without affecting its biochemical
+            properties
+  JOURNAL   Biochimie 81 (5), 535-538 (1999)
+   PUBMED   10403186
+REFERENCE   6  (bases 1 to 6374)
+  AUTHORS   Buettner,C., Harney,J.W. and Larsen,P.R.
+  TITLE     The 3'-untranslated region of human type 2 iodothyronine deiodinase
+            mRNA contains a functional selenocysteine insertion sequence
+            element
+  JOURNAL   J Biol Chem 273 (50), 33374-33378 (1998)
+   PUBMED   9837913
+REFERENCE   7  (bases 1 to 6374)
+  AUTHORS   Celi,F.S., Canettieri,G., Yarnall,D.P., Burns,D.K., Andreoli,M.,
+            Shuldiner,A.R. and Centanni,M.
+  TITLE     Genomic characterization of the coding region of the human type II
+            5'-deiodinase gene
+  JOURNAL   Mol Cell Endocrinol 141 (1-2), 49-52 (1998)
+   PUBMED   9723885
+REFERENCE   8  (bases 1 to 6374)
+  AUTHORS   Salvatore,D., Tu,H., Harney,J.W. and Larsen,P.R.
+  TITLE     Type 2 iodothyronine deiodinase is highly expressed in human
+            thyroid
+  JOURNAL   J Clin Invest 98 (4), 962-968 (1996)
+   PUBMED   8770868
+REFERENCE   9  (bases 1 to 6374)
+  AUTHORS   Croteau,W., Davey,J.C., Galton,V.A. and St Germain,D.L.
+  TITLE     Cloning of the mammalian type II iodothyronine deiodinase. A
+            selenoprotein differentially expressed and regulated in human and
+            rat brain and other tissues
+  JOURNAL   J Clin Invest 98 (2), 405-417 (1996)
+   PUBMED   8755651
+REFERENCE   10 (bases 1 to 6374)
+  AUTHORS   Mandel,S.J., Berry,M.J., Kieffer,J.D., Harney,J.W., Warne,R.L. and
+            Larsen,P.R.
+  TITLE     Cloning and in vitro expression of the human selenoprotein, type I
+            iodothyronine deiodinase
+  JOURNAL   J Clin Endocrinol Metab 75 (4), 1133-1139 (1992)
+   PUBMED   1400883
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC007372.4, AK292210.1,
+            AF093774.1 and BC136514.1.
+            
+            On Oct 5, 2018 this sequence version replaced NM_000793.5.
+            
+            Summary: The protein encoded by this gene belongs to the
+            iodothyronine deiodinase family. It catalyzes the conversion of
+            prohormone thyroxine (3,5,3',5'-tetraiodothyronine, T4) to the
+            bioactive thyroid hormone (3,5,3'-triiodothyronine, T3) by outer
+            ring 5'-deiodination. This gene is widely expressed, including in
+            thyroid and brain. It is thought to be responsible for the 'local'
+            production of T3, and thus important in influencing thyroid hormone
+            action in these tissues. It has also been reported to be highly
+            expressed in thyroids of patients with Graves disease, and in
+            follicular adenomas. The intrathyroidal T4 to T3 conversion by this
+            enzyme may contribute significantly to the relative increase in
+            thyroidal T3 production in these patients. This protein is a
+            selenoprotein containing the non-standard amino acid,
+            selenocysteine (Sec), which is encoded by the UGA codon that
+            normally signals translation termination. The 3' UTRs of
+            selenoprotein mRNAs contain a conserved stem-loop structure,
+            designated the Sec insertion sequence (SECIS) element, that is
+            necessary for the recognition of UGA as a Sec codon, rather than as
+            a stop signal. Unlike the other two members (DIO1 and DIO3) of this
+            enzyme family, the mRNA for this gene contains an additional
+            in-frame UGA codon that has been reported (in human) to function
+            either as a Sec or a stop codon, which can result in two isoforms
+            with one or two Sec residues; however, only the upstream Sec
+            (conserved with the single Sec residue found at the active site in
+            DIO1 and DIO3) was shown to be essential for enzyme activity
+            (PMID:10403186). Alternatively spliced transcript variants have
+            been described for this gene. [provided by RefSeq, Oct 2018].
+            
+            Transcript Variant: This variant (2) uses a different promoter and
+            contains two novel 5' non-coding exons; thus, has a longer 5' UTR
+            compared to the variant 1. Variants 1 (NM_001366496.1), 2 and 3
+            represent the same one-Sec containing isoform (b), considered to be
+            the canonical form.
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AK292210.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2147975, SAMEA2156670
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            protein contains selenocysteine :: PMID: 9837913, 10403186
+            ##RefSeq-Attributes-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-3                 AC007372.4         77690-77692         c
+            4-1487              AK292210.1         1-1484
+            1488-3016           AF093774.1         1254-2782
+            3017-5123           BC136514.1         2653-4759
+            5124-6374           AC007372.4         44161-45411         c
+FEATURES             Location/Qualifiers
+     source          1..6374
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="14"
+                     /map="14q31.1"
+     gene            1..6374
+                     /gene="DIO2"
+                     /gene_synonym="5DII; D2; DIOII; SELENOY; SelY; TXDI2"
+                     /note="iodothyronine deiodinase 2"
+                     /db_xref="GeneID:1734"
+                     /db_xref="HGNC:HGNC:2884"
+                     /db_xref="MIM:601413"
+     exon            1..157
+                     /gene="DIO2"
+                     /gene_synonym="5DII; D2; DIOII; SELENOY; SelY; TXDI2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            158..336
+                     /gene="DIO2"
+                     /gene_synonym="5DII; D2; DIOII; SELENOY; SelY; TXDI2"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    210..212
+                     /gene="DIO2"
+                     /gene_synonym="5DII; D2; DIOII; SELENOY; SelY; TXDI2"
+                     /note="upstream in-frame stop codon"
+     exon            337..611
+                     /gene="DIO2"
+                     /gene_synonym="5DII; D2; DIOII; SELENOY; SelY; TXDI2"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             390..1187
+                     /gene="DIO2"
+                     /gene_synonym="5DII; D2; DIOII; SELENOY; SelY; TXDI2"
+                     /EC_number="1.21.99.4"
+                     /note="isoform b is encoded by transcript variant 2;
+                     thyroxine deiodinase, type II; type-II 5'deiodinase; type
+                     2 iodothyronine deiodinase; type 2 DI; type-II
+                     5'-deiodinase; deiodinase-2; deiodonase-2; selenoprotein
+                     Y; deiodinase, iodothyronine type II"
+                     /codon_start=1
+                     /transl_except=(pos:786..788,aa:Sec)
+                     /product="type II iodothyronine deiodinase isoform b"
+                     /protein_id="NP_000784.3"
+                     /db_xref="GeneID:1734"
+                     /db_xref="HGNC:HGNC:2884"
+                     /db_xref="MIM:601413"
+                     /translation="MGILSVDLLITLQILPVFFSNCLFLALYDSVILLKHVVLLLSRS
+                     KSTRGEWRRMLTSEGLRCVWKSFLLDAYKQVKLGEDAPNSSVVHVSSTEGGDNSGNGT
+                     QEKIAEGATCHLLDFASPERPLVVNFGSATUPPFTSQLPAFRKLVEEFSSVADFLLVY
+                     IDEAHPSDGWAIPGDSSLSFEVKKHQNQEDRCAAAQQLLERFSLPPQCRVVADRMDNN
+                     ANIAYGVAFERVCIVQRQKIAYLGGKGPFSYNLQEVRHWLEKNFSKR"
+     misc_feature    417..491
+                     /gene="DIO2"
+                     /gene_synonym="5DII; D2; DIOII; SELENOY; SelY; TXDI2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q92813.4);
+                     transmembrane region"
+     misc_feature    786..788
+                     /gene="DIO2"
+                     /gene_synonym="5DII; D2; DIOII; SELENOY; SelY; TXDI2"
+                     /note="Selenocysteine; other site"
+     exon            612..6374
+                     /gene="DIO2"
+                     /gene_synonym="5DII; D2; DIOII; SELENOY; SelY; TXDI2"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    1185..1187
+                     /gene="DIO2"
+                     /gene_synonym="5DII; D2; DIOII; SELENOY; SelY; TXDI2"
+                     /note="this TGA codon can also function as a Sec codon
+                     resulting in a longer isoform (a) with two Sec residues"
+     misc_feature    1209..1211
+                     /gene="DIO2"
+                     /gene_synonym="5DII; D2; DIOII; SELENOY; SelY; TXDI2"
+                     /note="this TAA codon functions as a stop codon for the
+                     longer isoform (a) with two Sec residues"
+     regulatory      3372..3377
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="DIO2"
+                     /gene_synonym="5DII; D2; DIOII; SELENOY; SelY; TXDI2"
+                     /note="hexamer: AATAAA"
+     polyA_site      3399
+                     /gene="DIO2"
+                     /gene_synonym="5DII; D2; DIOII; SELENOY; SelY; TXDI2"
+     regulatory      6054..6126
+                     /regulatory_class="recoding_stimulatory_region"
+                     /gene="DIO2"
+                     /gene_synonym="5DII; D2; DIOII; SELENOY; SelY; TXDI2"
+                     /note="SECIS_element"
+                     /function="essential for recoding UGA to specify
+                     selenocysteine"
+     regulatory      6346..6351
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="DIO2"
+                     /gene_synonym="5DII; D2; DIOII; SELENOY; SelY; TXDI2"
+                     /note="hexamer: AATAAA"
+     polyA_site      6374
+                     /gene="DIO2"
+                     /gene_synonym="5DII; D2; DIOII; SELENOY; SelY; TXDI2"
+                     /note="major polyA site"
+ORIGIN      
+        1 gtgagactgg tctagcctcc cagcctacat ctttcttcag tgctggatgc ttcctgccct
+       61 caaacatcgg actccaagtt cttcagtttt gagactcaga ctgactgtcc ttgctcctca
+      121 agcttgcaga cagcctattg tgggacgttg tgatcattag gtagcctgga aaaaaaagag
+      181 aagcaacagt tcctgaggga agaatgcatt aacaactcgg atgggtgctg tctgccagca
+      241 ctgcagagga acctacggag agggctgctg ggagagaatg ctcatacctc ccaaggcgtc
+      301 agcctgccct cccgccccca agttgctttg ctcaagaggg tgaaggggaa ccagagcgca
+      361 caagggaact gactcaggag gcagagaaga tgggcatcct cagcgtagac ttgctgatca
+      421 cactgcaaat tctgccagtt tttttctcca actgcctctt cctggctctc tatgactcgg
+      481 tcattctgct caagcacgtg gtgctgctgt tgagccgctc caagtccact cgcggagagt
+      541 ggcggcgcat gctgacctca gagggactgc gctgcgtctg gaagagcttc ctcctcgatg
+      601 cctacaaaca ggtgaaattg ggtgaggatg cccccaattc cagtgtggtg catgtctcca
+      661 gtacagaagg aggtgacaac agtggcaatg gtacccagga gaagatagct gagggagcca
+      721 catgccacct tcttgacttt gccagccctg agcgcccact agtggtcaac tttggctcag
+      781 ccacttgacc tcctttcacg agccagctgc cagccttccg caaactggtg gaagagttct
+      841 cctcagtggc tgacttcctg ctggtctaca ttgatgaggc tcatccatca gatggctggg
+      901 cgataccggg ggactcctct ttgtcttttg aggtgaagaa gcaccagaac caggaagatc
+      961 gatgtgcagc agcccagcag cttctggagc gtttctcctt gccgccccag tgccgagttg
+     1021 tggctgaccg catggacaat aacgccaaca tagcttacgg ggtagccttt gaacgtgtgt
+     1081 gcattgtgca gagacagaaa attgcttatc tgggaggaaa gggccccttc tcctacaacc
+     1141 ttcaagaagt ccggcattgg ctggagaaga atttcagcaa gagatgaaag aaaactagat
+     1201 tagctggtta aaggtatgat tataagagag cttattgttt taaaaagtta tataaaggca
+     1261 aggaaattaa gaactgaatc catatttcaa cagagcccta ttggcttact gaaagacagg
+     1321 agtttatcta tcggaagaac atgaatctct aacagctcca tacttctttc actactcaaa
+     1381 tggcattggg ctgagtaagt aaccatatca cctctcttct tagtaaaaag ccctatgtga
+     1441 aaagatccca agatggagag gaagaaacgc taattcagca tgtgttcatt ctgcattgag
+     1501 aaggaactga tacatctgat gcatgctttg agaccagaag aaaagactta cctgaataat
+     1561 tactacatta gggaagctac tgtctacgtt aagataaagg gtattgcctt ggctctattt
+     1621 ggcatggatg gagcccagtt ggaaaattcc caaatattac aacaagtcct tgaacccagg
+     1681 ccatgtggtt agacgttggt gttaaggtta gaccttatgt tagagtcatt tctgatgttc
+     1741 cagcttctag ccatgtagtg ctctcagtct tcatacccca gaaattattg gtatatttgt
+     1801 agataccgag aatgatccct cagtctgaga ggttagaatg atcatctgta atctgagggt
+     1861 taatttctag gcaggtggag agagtggtaa aaaagaaatg aaattgacaa gctaggaaag
+     1921 aggaggcaga aagatttgga aaattcacag agtttcaccc ttaagctgta gagagtgggt
+     1981 cacatttgtt agccacggaa acatagaaac atacacaagg ccagaaaaag aagaaggagc
+     2041 tcaactaaaa gtggcataga gaatacacat ataaaaacaa tatatttgtc atatgctcct
+     2101 agagaggaga aaggggtgat tgaaagaaaa aaaaatactt aaatatttgt aattgtgagg
+     2161 ggtttctttt ggaaataatt acttttgaac catgtatgtg gtatgtatat tttcagtggg
+     2221 ttaattatac cccatgatac ctattaaagg aaaaccagtg ggtctggtgg tgctggtctt
+     2281 ttcctcccca ttcctacaat ttctatgtgg cccaagtcat tcctaatctt ggtctctata
+     2341 gcagtgttct ctctgaatgc tgagctgaag aaattatacg tacatacaca catacataca
+     2401 tacatacaaa tatatgtata tatattctca gctgctgcgg gaggtaggta ccatggccat
+     2461 tcagcacagc cttgatttcc tcccaaagta ggtgagctat agtgaagaat aggtgcaaac
+     2521 aaacaagctt acttccattg caaaatagaa gaagaggaag ttagagataa ttctgatcaa
+     2581 tcattttgga ggctttgtta taaggcaacc cccggtatat catggaattt ccattgacat
+     2641 ttgaatttgg acttggatct tcccttggtc ccattagctg aggtttagta atctaaagtc
+     2701 cctatagtat atgattataa tgctatttta aaaaatatat atataaaata tttttttctt
+     2761 tttaaaatag acactatagt tttacccata agtaatattt aaagattata gctcccaaaa
+     2821 gaatggacca accactttcg tatcataatt tctttttggt aaatatgaga ctattatgaa
+     2881 atcatagtat atgattgtat ttaaaggtac aatcaaagga tcttttgtcc attccattaa
+     2941 taactgaata aaaaataaat aaaatggata gaaaaaaact aaagttgaaa atacattctt
+     3001 aaactagttg tctgaattga gaaaagagtg agaactaggt gtgcaagaac caaacgtatt
+     3061 ttattttatt ttttaaatgg gagcaacata tcagtcgtgt caccagctgg tatattgtgt
+     3121 aaatattaaa gctccattgg gactgatttt tcatggcaac atcagctttc taatgttcta
+     3181 aattctataa aaaccaccca caaagaaaca aagcaaattt cattatctaa tgagttgctg
+     3241 gaaaatcata ttgagaataa ttatttcaga ttcctcagtt gttaacttct acattcaagg
+     3301 cttatctctg cccccattga tttttaacct caaaatggtg ttgagattta cgtggaaccc
+     3361 taaagcagta aaataaaaaa cctggttgca gcacattcac actgttgtcc ttaaaattcc
+     3421 ccttttttct ctatgtacga taaagtaaca gtatgtcaga taagccggtg gggggatgag
+     3481 attaggctga ggcagtgcta gtcaactggg gaaaaggatg atggaaaaat cacccagttg
+     3541 tgctatattt ttaaagaagg aggtcgttta tgtgtgcaga caattctccc tgaggttagc
+     3601 ccaatggaga aatgaagcag aggaaggaaa catagaaaga catgggctat cagggaggaa
+     3661 gatgttcaat agaacatgca agaatttctg gaagaaaggc tgtggaaggg ccaatggaga
+     3721 aaatgaatgg acaaagctca ggaatcctac gctatgtaga atgtcttggt gttatcaggg
+     3781 ttaagcctgt aattatgtaa cctatttatc gcaacatgaa tttttatgat ttcttgtgat
+     3841 gtattctttt atgaaattaa caagaactca ttattttgag gtagaggaaa atcaatgctt
+     3901 tatctgatat gctgagaaat tattagattg ccaatactca tgtgcgtttc atgtgtttta
+     3961 taaggtttgt tcctttgaag aattgtagtt cttagtccca cagggaaatg tgtatctatt
+     4021 tatatatcat agtataaatc tatgatatat ttatatcata tataaaagtc tgagttctct
+     4081 ttcttagtcc ctaatcatgt ttctcccata ggctgtgttt acatggagct atcggtttag
+     4141 ccttttaagc ttcattagct tgtctattat tgaaatagtt tccaagaaat tttagatatt
+     4201 atcataacat ctgggtctac tcaaacactt attgtttgaa agacttatgt cttggaccta
+     4261 tcaaaaactg actttattta ttgcttagtg aaaatactag tgggatcaac aatgattttc
+     4321 ttgaatgggc atgaatggag atgcccgcac agtaatgtag aaatgtttca tacagctatt
+     4381 aaaatgtaac tgacctcctt agaggcagat tagtaactgt tcctactttg tatagctaag
+     4441 tgacagtcac ttaacttaca tgactttctt ttttcacatt gggtctctgg tcctgtgtct
+     4501 tcacctcatt tatagcacgt ctccttgatt tttggtagta tcaacttccc agtgatctgt
+     4561 tcagttaagt tcttctcccg ttaaccagga agtgcttatt ctctcatcac agtgggaaga
+     4621 atagcctatt gtctttcatt ttgcctgagt gtattttact atttgggctc tgaaataaaa
+     4681 attatgaaat atggtgaggt cacatgttgg tgctgccttg ctgcataaaa ttctagaggg
+     4741 caggttagag acagtatgta tgccttcggg aaaattcaaa ggtggattac aaggtgtcct
+     4801 cagcatgccc tatggcctat gtgcgaagca agaagaattg actgatttac aggacttctc
+     4861 tttatgtcaa tcttaagagg atggatgaat ctggacattt gttccacccg acctctgact
+     4921 gatggtttgg aaaataactt taattaggat catatgacca ttgaaaaagg aaaaatgtag
+     4981 actctgactt ccgtcccact gaaggattaa tgaaaacctt tactagcatt tagagctttt
+     5041 cagaacatcc ccactgtcat gtgtctcagc agtggagact gcaagtaagg cttttaattt
+     5101 taggaggttt tttttttttt ttttttttcc ctaaatggta tggccaaaag tcagagttaa
+     5161 aatatatata gttagattcc aacttcctcc ttcactctaa aaatagaatc caaacccact
+     5221 cttcatatat gcttccagaa tggggcttaa gtaccaatct ctgctttgca atgggcacaa
+     5281 tcttggtcat gtcctgaggc tctctaagaa aagagaggat ctaggatggg agagctagaa
+     5341 agttgctaac tgggaagaac aaggccctga gggcttggtc taccaatctg ggaagatttg
+     5401 aaaacaaact tctcgcaact gaaggaaggc tgaaggctgc tgcaagtcat tgagtgactt
+     5461 taggatgagc aaaacattgg gccacttcct aatgccctat gtgtatagta ccagaagcaa
+     5521 ggtctcagac ttaacagacc cagctctgtt ccaaggtgag tctgaaccaa tagaaagcaa
+     5581 acatgtgcag atatccaaac aagactgctc atgcaagtcg gggctggcta cccgtcttag
+     5641 gcagcaacag cagagctcca gggagcttat tcaatattta ctgagacttc gaagacccag
+     5701 cagatgttta atgaagtcac tattttggct caaaccctcc acttctcccc ctcccctcaa
+     5761 aaagccaaca ggtaaacaca taaatgaaag aaacccacag aaggggatgg gaaataaaga
+     5821 aaattctctc aagacttctc caggcccatg tcactggtca gcgtggtttt tatgtgtatt
+     5881 aggattgggg gatgtgaaga aataagtatc cagtacttta taaccaaagc aattaaatga
+     5941 tattgggtag ggaatgttgg ccagttttgt ttagttttgc atcacattgt caccagactc
+     6001 actagcccaa gtaatcgggc gcccgaagag ggagacagag atgtgcagag ttgaccagtg
+     6061 tgcggatgat aactactgac gaaagagtca tcgactcagt tagtggttgg atgtagtcac
+     6121 attagtttgc ctctccccat ctttgtctcc ctggcaagga gaatatgcgg gacatgatgc
+     6181 taagagtcct gggtaaatgt ggtgagaatg cacgcgtgca tatgctacac atatgtgctt
+     6241 ctcagttgca gaaaatgaac tgctttggga gattatcagt agaaagagtg ttatcatatt
+     6301 ggtgctgagt gctatgtgtg cttatacaat ttgttcttgt attttaataa actttgaata
+     6361 aaagaataaa gcta
+//
+
