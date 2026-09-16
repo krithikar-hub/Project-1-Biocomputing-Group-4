@@ -6,10 +6,14 @@ The genebank files were downloaded from NCBI using Python and the `requests` lib
 •	Obtained protein sequences
 The protein sequences were downloaded from NCBI using Python and the `requests` library.
 •	Extracted fasta headers
+Gene A- 
 grep "^>" DIO2.fasta DIO2_protein.fasta > headers_DIO2.txt
+Gene B -
 head -n 1 MT_ATP6_CDS.fasta > headers.txt
 head -n 1 MT_ATP6_GenBank.gb >> headers.txt
 head -n 1 Protein_ATP_synthase_F0_a.fasta >> headers.txt
+Gene C -
+grep "^>" PGK1_seqquence.fasta PGK1_DP_sequence.fasta PGK1_sequence.gp > headers_PGK1.txt
 •	Extracted CDS
 CDS was extracted using the position
 •	Translated the CDS
