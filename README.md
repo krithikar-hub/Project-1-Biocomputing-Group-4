@@ -8,6 +8,8 @@ The protein sequences were downloaded from NCBI using Python and the `requests` 
 •	Extracted fasta headers
 grep "^>" DIO2.fasta DIO2_protein.fasta > headers_DIO2.txt
 head -n 1 MT_ATP6_CDS.fasta > headers.txt
+head -n 1 MT_ATP6_GenBank.gb >> headers.txt
+head -n 1 Protein_ATP_synthase_F0_a.fasta >> headers.txt
 •	Extracted CDS
 CDS was extracted using the position
 •	Translated the CDS
